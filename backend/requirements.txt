@@ -1,0 +1,11 @@
+llmwhisperer-client
+langchain
+langchain-groq
+groq
+pydantic
+pydantic-ai
+fastapi
+uvicorn
+requests
+python-dotenv
+python-multipart
